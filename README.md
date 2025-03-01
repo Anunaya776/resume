@@ -1,47 +1,37 @@
-Resume Website
+# Resume Website
 
 This is a simple resume website built using HTML, CSS, and JavaScript. The website consists of multiple pages:
+- **Bio Data Page**: Contains personal information and a brief introduction.
+- **Resume Page**: Displays the full resume with education, experience, and skills.
+- **Contact Popup**: A pop-up message appears when the user clicks the contact option.
 
-Bio Data Page: Contains personal information and a brief introduction.
+## Features
+- Responsive design for different screen sizes
+- Navigation between bio data and resume pages
+- Popup message for contact information
+- Smooth animations and transitions using CSS
 
-Resume Page: Displays the full resume with education, experience, and skills.
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-Contact Popup: A pop-up message appears when the user clicks the contact option.
+## Installation & Usage
+1. Clone the repository:
 
-Features
+   git clone https://github.com/yourusername/resume-website.git
 
-Responsive design for different screen sizes
+2. Navigate to the project folder:
 
-Navigation between bio data and resume pages
+   cd resume-website
 
-Popup message for contact information
+3. Open `index.html` in a browser:
 
-Smooth animations and transitions using CSS
+   open index.html
 
-Technologies Used
 
-HTML
-
-CSS
-
-JavaScript
-
-Installation & Usage
-
-Clone the repository:
-
-git clone https://github.com/yourusername/resume-website.git
-
-Navigate to the project folder:
-
-cd resume-website
-
-Open index.html in a browser:
-
-open index.html
-
-File Structure
-
+## File Structure
+```
 resume-website/
 │── index.html      # Main landing page
 │── resume.html     # Resume page
@@ -49,18 +39,14 @@ resume-website/
 │── script.js       # JavaScript for interactivity
 
 
-Customization
+## Customization
+- Modify `bio.html` to update personal information.
+- Edit `resume.html` to include resume details.
+- Update `styles.css` for different styling preferences.
+- Customize `script.js` to add more interactivity.
 
-Modify bio.html to update personal information.
 
-Edit resume.html to include resume details.
 
-Update styles.css for different styling preferences.
-
-Customize script.js to add more interactivity.
-
-Contact
-
-For any issues or suggestions, feel free to contact me at your-anunaya45@gmail.com.
-
+---
 Feel free to modify this README according to your needs!
+
